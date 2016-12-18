@@ -2,7 +2,7 @@ NAME = HelloWorld
 
 SRC = HelloWorld.asm
 
-FLAGS = nasm -f elf
+FLAGS = nasm -f elf64
 
 SRCO = HelloWorld.o
 
